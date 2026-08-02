@@ -22,8 +22,8 @@
 
 ---
 
-# About Web app👇🏻
-### This is The usable link of this project: https://untitled-481008835075.asia-southeast1.run.app
+# Use that from here 👇🏻
+Rexxeco XZ : https://abdulhadichoyon-dot.github.io/Rexxeco-XZ-/
 
 ## 🛠️ Tech Stack
 
